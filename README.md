@@ -11,3 +11,11 @@ This dashboard is designed to monitor the performance of Windows machines using 
 <img src=img/windows-node-1.png width="300">
 
 <img src=img/windows-node-2.png width="300">
+
+## Prometheus
+
+This dashboard displays internal metrics scraped from Prometheus instances.
+
+<img src=img/prometheus-1.png width="300">
+
+<img src=img/prometheus-2.png width="300">
